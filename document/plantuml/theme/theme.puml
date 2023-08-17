@@ -7,8 +7,8 @@
 '!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/bluegray/puml-theme-bluegray.puml
 '!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/carbon-gray/puml-theme-carbon-gray.puml 'NO
 '!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/cerulean-outline/puml-theme-cerulean-outline.puml
-'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/cerulean/puml-theme-cerulean.puml
-!include https://raw.githubusercontent.com/ir-msob-framework/base/master/document/plantuml/theme/puml-theme-cerulean.puml?token=GHSAT0AAAAAAB6RTRWVM4HHGPF5DJEMITH4ZG577VQ
+!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/cerulean/puml-theme-cerulean.puml
+'!include https://raw.githubusercontent.com/ir-msob-framework/base/master/document/plantuml/theme/puml-theme-cerulean.puml?token=GHSAT0AAAAAAB6RTRWVM4HHGPF5DJEMITH4ZG577VQ
 '!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/cloudscape-design/puml-theme-cloudscape-design.puml
 '!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/cyborg-outline/puml-theme-cyborg-outline.puml
 '!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/cyborg/puml-theme-cyborg.puml
