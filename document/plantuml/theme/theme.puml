@@ -1,0 +1,34 @@
+@startuml
+
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/aws-orange-dark/puml-theme-aws-orange-dark.puml
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/aws-orange-light/puml-theme-aws-orange-light.puml
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/aws-orange/puml-theme-aws-orange.puml
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/black-knight/puml-theme-black-knight.puml
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/bluegray/puml-theme-bluegray.puml
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/carbon-gray/puml-theme-carbon-gray.puml 'NO
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/cerulean-outline/puml-theme-cerulean-outline.puml
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/cerulean/puml-theme-cerulean.puml
+!include puml-theme-cerulean.puml
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/cloudscape-design/puml-theme-cloudscape-design.puml
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/cyborg-outline/puml-theme-cyborg-outline.puml
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/cyborg/puml-theme-cyborg.puml
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/hacker/puml-theme-hacker.puml
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/lightgray/puml-theme-lightgray.puml
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/materia-outline/puml-theme-materia-outline.puml
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/materia/puml-theme-materia.puml
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/metal/puml-theme-metal.puml
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/minty/puml-theme-minty.puml
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/resume-light/puml-theme-resume-light.puml
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/sandstone/puml-theme-sandstone.puml
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/silver/puml-theme-silver.puml
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/sketchy-outline/puml-theme-sketchy-outline.puml
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/sketchy/puml-theme-sketchy.puml
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/solar/puml-theme-solar.puml 'NO
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/spacelab/puml-theme-spacelab.puml 'NO
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/superhero-outline/puml-theme-superhero-outline.puml ' NO
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/superhero/puml-theme-superhero.puml ' NO
+'!include https://raw.githubusercontent.com/bschwarz/puml-themes/master/themes/united/puml-theme-united.puml 'NO
+
+
+
+@enduml
